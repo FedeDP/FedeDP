@@ -1,16 +1,20 @@
-## Hi there 👋
+<!--- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=fededp.visitor-badge)](https://github.com/fededp) -->
+<img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=fededp.visitor-badge" />
 
-<!--
-**FedeDP/FedeDP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span style="font-family:'Hack Nerd Font'">
 
-Here are some ideas to get you started:
+<h2 align="center">Welcome to FedeDP profile! :-) </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About me
+
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=fededp&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+</p>
+
+<p align="center">
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=fededp&include_all_commits=true&hide_border=true&theme=dark"/>
+</p>
+
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fededp&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
+</p>
