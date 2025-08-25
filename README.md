@@ -8,7 +8,7 @@
 # About me
 
 Hi! I am Federico Di Pierro, a Software Engineer from Italy!  
-I am currently a Senior Open Source Engineer @ [Sysdig](https://sysdig.com/), and a [Falco](https://falco.org/) (CNCF graduated project) core maintainer!
+I am currently a Software Engineer Tech Lead @ [Cisco](https://cisco.com/), and a [Falco](https://falco.org/) (CNCF graduated project) core maintainer!
 
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=fededp&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
