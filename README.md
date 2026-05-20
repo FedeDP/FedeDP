@@ -7,6 +7,21 @@
 Hi! I am Federico Di Pierro, a Software Engineer from Italy!  
 I am currently a Software Engineer Tech Lead @ [Cisco](https://cisco.com/), a [Falco](https://falco.org/) (CNCF graduated project) core maintainer and a [Tetragon](https://tetragon.io/) Member and Committer.
 
+## Metrics
+<p align="center">
+	<img width="625em" src="https://github.com/FedeDP/FedeDP/blob/main/github-metrics.svg" />
+</p>
+
+## Contributions
+
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+	</a>
+</p>
+
+> Isometric view of contributions in the last year. Languages pie is based on recent commits.
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Clion-informational?style=flat&logo=clion&logoColor=white&color=2bbc8a)
